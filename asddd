@@ -12,7 +12,7 @@ NotificationBindable.OnInvoke = callback
 game.StarterGui:SetCore("SendNotification",  {
  Title = "griddy";
  Text = "i say right foot creep (swaggermasteryolo)";
- Icon = "http://www.roblox.com/asset/?id=33759305";
+ Icon = "http://www.roblox.com/asset/?id=3375930";
  Duration = 5;
  Button1 = "N O";
  Button2 = "EVEN CARLY??";
